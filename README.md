@@ -1,6 +1,3 @@
 BU İLK BAŞLANGIÇ
 
 BUDA 2.DENEME
-
-
-3.DENEME 
